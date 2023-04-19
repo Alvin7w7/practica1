@@ -1,0 +1,7 @@
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\bin\Debug\NumLit.exe.config
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\bin\Debug\NumLit.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\bin\Debug\NumLit.pdb
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\obj\Debug\NumLit.csprojResolveAssemblyReference.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\obj\Debug\NumLit.csproj.CoreCompileInputs.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\obj\Debug\NumLit.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\NumLit\NumLit\obj\Debug\NumLit.pdb

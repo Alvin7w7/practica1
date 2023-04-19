@@ -1,0 +1,7 @@
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\bin\Debug\serie.exe.config
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\bin\Debug\serie.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\bin\Debug\serie.pdb
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\obj\Debug\serie.csprojResolveAssemblyReference.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\obj\Debug\serie.csproj.CoreCompileInputs.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\obj\Debug\serie.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\practica1\serie\serie\obj\Debug\serie.pdb

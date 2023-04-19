@@ -1,0 +1,15 @@
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.AssemblyReference.cache
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+C:\Users\DANIEL\Desktop\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.pdb
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csprojResolveAssemblyReference.cache
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+C:\Users\XAVIER\Downloads\Practica1\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.pdb
